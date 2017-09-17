@@ -1,0 +1,16 @@
+{
+  "name": "leavethemarks",
+  "version": "1.0.0",
+  "description": "story telling web application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neha Verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5"
+  }
+}
